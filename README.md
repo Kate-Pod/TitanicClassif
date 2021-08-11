@@ -8,14 +8,14 @@ This is the Titanic ML competition https://www.kaggle.com/c/titanic/overview.
 
 
 The project contains the following algorithms:  
-Decision Tree  
-Logistic Regression  
-SVM  
-Random Forest  
-Gradient Boosting  
-K Neighbors  
-Naive Bayes  
-Stohastic Gradient Descent  
-XGBClassifier.
+* Decision Tree  
+* Logistic Regression  
+* SVM  
+* Random Forest  
+* Gradient Boosting  
+* K Neighbors  
+* Naive Bayes  
+* Stohastic Gradient Descent  
+* XGBClassifier.
 
 Also GridSearchCV was used for the best parameters selection.
